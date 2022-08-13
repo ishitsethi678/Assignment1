@@ -1,0 +1,60 @@
+.divclass{
+    width: 500px;
+    height:380px;
+    border:black;
+    border-width:3px;
+    border-style:solid;
+    margin-left :200px;
+    margin-top: 40px;
+    
+}
+
+.label-S{
+    padding-left: 20px;
+    padding-top: 20px;
+  
+}
+
+.label-G{
+   margin-right: 20px;
+  margin-top: -15px;
+   float:right;
+}
+
+.input{
+    
+    margin-right: 20px;
+        margin-top: -20px;
+        float: right;
+        
+}
+.p-tag{
+    margin-top: 0px;
+    color: rgb(108, 102, 102);
+}
+.p-tag1{
+    margin-top: -15px;
+    color: rgb(108, 102, 102);
+}
+
+.label-c{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.btn-c{
+    background-color: rgb(145, 145, 245);
+    height: 30px;
+    width: 150px;
+    margin-left:40px ;
+    margin-top: 25px;
+}
+
+.btn-cancel{
+    background-color: rgb(145, 145, 245);
+        height: 30px;
+        width: 200px;
+        margin-right: 100px;
+        margin-top: -30px;
+        float: right;
+}
+
